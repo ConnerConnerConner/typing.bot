@@ -1,4 +1,4 @@
-# ![Logo](https://play-lh.googleusercontent.com/V89qBkxTtKWoPKDsC6KfQZCN7dFb6xQ8nlrjT_-1AYV0ptJPoM2MrURt5E_M05EO5PU=w28) Typing.bot 
+# ![typingbot-icon](https://user-images.githubusercontent.com/110003454/202309200-def3491b-da57-435d-950b-5170e95b669e.png) Typing.bot 
 An OCR (Optical Character Recognition) [Typing.com](https://www.typing.com/) Bot
 
 ## Installation
